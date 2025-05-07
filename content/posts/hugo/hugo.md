@@ -1,7 +1,7 @@
 ---
 title: "Hugo"
 date: 2025-05-07T22:49:07+08:00
-draft: true
+draft: false
 ---
 
 ## 官网(official site)

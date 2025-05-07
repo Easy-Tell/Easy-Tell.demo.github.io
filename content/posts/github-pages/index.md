@@ -1,7 +1,7 @@
 ---
 title: "Github Pages"
 date: 2025-05-07T22:49:26+08:00
-draft: true
+draft: false
 ---
 
 ## Create github account
