@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://easy-tell.demo.github.io/'
 languageCode = 'en-us'
 title = 'Easy github'
 theme = 'hugo-theme-console'
